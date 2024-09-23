@@ -18,3 +18,17 @@ of an application at a certain point in time (kind of like a git commit hehe ðŸ˜
 
 ![image](https://github.com/user-attachments/assets/c5c7c2ce-4c04-4c8c-9a0e-94d92113553f)
 
+- We use something called a docker file to build docker images, which contains all the instructions you need to set up the process
+
+## This is what a Docker File looks like!!
+![image](https://github.com/user-attachments/assets/4a4df66e-cc59-4fc3-b057-152deaba361c)
+
+This is an image of a small docker file i have created for a little python script i made! 
+
+![image](https://github.com/user-attachments/assets/e74b94a1-97e2-4d03-a8f0-aa96123a1090)
+
+This is just a minor python script that prints text on the screen, but ill show you how i deleloped a more detailed script and containerised it using docker in upcoming files! ðŸ˜†
+
+## And There You Have it!! We have looked at the details of both images and containers in docker!!
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/247eca35-7759-46ac-a8ec-20dd1af68a71)
