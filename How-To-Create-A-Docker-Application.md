@@ -61,6 +61,19 @@ The only visual difference is with the type of brackets used as well as  the dif
 
 ![image](https://github.com/user-attachments/assets/453cd626-562e-4ca8-8185-5cdd36177711)
 
-The 'input' function in python allows us to recieve a users input which is the interactive part of the script itself. This means that when we run the script, the text ' ![image](https://github.com/user-attachments/assets/65010804-9619-4d67-8ccf-887c3b1cd01d) ' will show up, indicating that the user should type in a message! 
+The 'input' function in python allows us to recieve a users input which is the interactive part of the script itself. This means that when we run the script, the text ![image](https://github.com/user-attachments/assets/65010804-9619-4d67-8ccf-887c3b1cd01d) will show up, indicating that the user should type in a message! 
+
+![image](https://github.com/user-attachments/assets/3f6d0015-24af-4d28-9930-08b89b92ae95) 
+
+In this part of the code, the function 'len ()' is what counts the characters in a string which also includes spaces and punctuation.
+By adding the variable 'text' between the 'len ()' function directly makes the code count the characters within the text given by the users input.
+
+![image](https://github.com/user-attachments/assets/50fc221c-c966-42a1-8a0b-b01c5bf23b2d)
+
+This is an extention to our script that specifies that the 'len ()' function should only count the alphabetical characters in a string
+The '.isalpha()' function is what essentially does this for us!. This means that with this addition to the script, only the letters within the text, the user inputs will be counted meaning that spaces and punctuation will be dismissed.
+
+
+
 
 
