@@ -8,7 +8,7 @@ My Understanding of Docker is that, it is a platform used to containerise applic
 
 ## A description of the Docker Objective 🤔
 
-In A nutshell, Docker allows engineers/Developers to create isolated enviroments to deploy their application! These enviroments are known as containers which helps to import applications with all the necessary appliances (As we previously mentioned). This means that all you have to do is launch your container which will allow your application to run immediately.
+In A nutshell, Docker allows engineers/Developers to create isolated enviroments to deploy their application! It is an open platform for developing, shipping and running applications in containers. It simplifies the process of managing containers making it easier to deploy build and run application. These enviroments are known as containers which helps to import applications with all the necessary appliances (As we previously mentioned). This means that all you have to do is launch your container which will allow your application to run immediately. 
 
 ![image](https://github.com/user-attachments/assets/76cf0659-960f-469e-8494-6fa53287fa68)
 
