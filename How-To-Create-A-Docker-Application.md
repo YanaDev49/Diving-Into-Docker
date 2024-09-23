@@ -97,6 +97,23 @@ All you need to do now is verify that Docker has been installed correctly using 
 
 ![image](https://github.com/user-attachments/assets/3240aaa7-d7c4-4d4c-9c3c-511fbcbf8f53)
 
+## 𝖲𝗍𝖾𝗉 𝟤: 𝖢𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝗍𝗁𝖾 𝖣𝗈𝖼𝗄𝖾𝗋 𝖺𝗇𝖽 𝖯𝗒𝗍𝗁𝗈𝗇 𝖿𝗂𝗅𝖾𝗌 
+
+In the approach i took, i already created my python file before creating my docker file. This means that i set up my docker file beforehand and all i needed to do was edit the file according to my python file. I'll show you what i mean down below ⤵️
+
+![image](https://github.com/user-attachments/assets/c8c19372-3a35-4b67-a42f-d1bf8f9de4ad)
+
+𝖬𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝗐𝖺𝗒 𝗍𝗈 𝗍𝗁𝖾 𝖣𝗈𝖼𝗄𝖾𝗋𝖧𝗎𝖻 𝗐𝖾𝖻𝗌𝗂𝗍𝖾 𝖺𝗇𝖽 𝗍𝗒𝗉𝖾 '𝖯𝗒𝗍𝗁𝗈𝗇' 𝗂𝗇 𝗍𝗁𝖾 𝗌𝖾𝖺𝗋𝖼𝗁 𝖻𝖺𝗋. 𝖳𝗁𝗂𝗌 𝗐𝗂𝗅𝗅 𝗀𝗂𝗏𝖾 𝗒𝗈𝗎 𝗍𝗁𝖾 𝗈𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝗂𝗆𝖺𝗀𝖾 𝖼𝗋𝖾𝖺𝗍𝖾𝖽 𝗍𝗈 𝖾𝗑𝖾𝖼𝗎𝗍𝖾 𝖯𝗒𝗍𝗁𝗈𝗇. 
+
+𝖱𝖾𝗆𝖾𝗆𝖻𝖾𝗋 𝗐𝗁𝖾𝗇 𝗐𝖾 𝗍𝖺𝗅𝗄𝖾𝖽 𝖺𝖻𝗈𝗎𝗍 𝖣𝗈𝖼𝗄𝖾𝗋𝖧𝗎𝖻 𝗉𝗋𝖾𝗏𝗂𝗈𝗎𝗌𝗅𝗒? 
+
+𝖣𝗈𝖼𝗄𝖾𝗋 𝖧𝗎𝖻 𝗂𝗌 𝗐𝗁𝖺𝗍 𝗉𝗋𝗈𝗏𝗂𝖽𝖾𝗌 𝗉𝗋𝖾-𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗂𝗆𝖺𝗀𝖾𝗌 𝗍𝗈 𝗉𝗎𝗅𝗅 𝖺𝗇𝖽 𝗎𝗌𝖾 𝗂𝗇 𝖽𝗈𝖼𝗄𝖾𝗋 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋𝗌!!
+
+run the ![image](https://github.com/user-attachments/assets/2c8e1115-d04c-4092-9c89-654cccc3e8a2) command and this will download the official python Docker image from DockerHub to your local machine. This image includes a python enviroment that you can use to run Python applications inside Docker Containers.
+
+
+
+
 
 
 
