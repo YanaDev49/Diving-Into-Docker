@@ -134,7 +134,7 @@ Run the 'docker pull python' command and this will download the official python 
 - The first parameter, 'string-count-script.py', refers to the file on my computer that contains my python script
 - The second parameter, '/', specifies the destination path in the image, placing the file in the root directory
 
-![image](https://github.com/user-attachments/assets/1eac5364-af7e-4e00-b5f4-76f04ce00c46)
+![image](https://github.com/user-attachments/assets/c273a340-4fe6-40d0-b035-5634e0def87d)
 
 𝖥𝗂𝗇𝖺𝗅𝗅𝗒, 𝗐𝖾 𝗇𝖾𝖾𝖽 𝗍𝗈 𝖽𝖾𝖿𝗂𝗇𝖾 𝗍𝗁𝖾 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗁𝖺𝗍 𝗐𝗂𝗅𝗅 𝗋𝗎𝗇 𝗐𝗁𝖾𝗇 𝗍𝗁𝖾 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋 𝗌𝗍𝖺𝗋𝗍𝗌!
 
