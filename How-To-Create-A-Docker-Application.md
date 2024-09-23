@@ -55,9 +55,9 @@ The only visual difference is with the type of brackets used as well as  the dif
 
 𝐴𝘧𝑡𝘦𝑟 𝑑𝘰𝑖𝘯𝑔 𝑠𝘰𝑚𝘦 𝘭𝑒𝘢𝑟𝘯𝑖𝘯𝑔 𝑎𝘯𝑑 𝑡𝘩𝑜𝘳𝑜𝘶𝑔𝘩 𝘳𝑒𝘴𝑒𝘢𝑟𝘤ℎ, 𝘪 𝘸𝘢𝘴 𝘢𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢 𝘱𝘺𝘵𝘩𝘰𝘯 𝘴𝘤𝘳𝘪𝘱𝘵 𝘵𝘩𝘢𝘵 𝘤𝘰𝘶𝘯𝘵𝘴 𝘵𝘩𝘦 𝘯𝘶𝘮𝘣𝘦𝘳 𝘰𝘧 𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴 𝘪𝘯 𝘢 𝘨𝘪𝘷𝘦𝘯 𝘵𝘦𝘹𝘵 📝 ⤵️
 
-![image](https://github.com/user-attachments/assets/9f09f099-1d39-46cb-9572-16ca28ae9bf9)
+![image](https://github.com/user-attachments/assets/537690b5-0084-4365-a640-791607e5e2b2)
 
-### 𝑯𝙚𝒓𝙚𝒔 𝒉𝙤𝒘 𝒊 𝒅𝙞𝒅 𝒊𝙩 𝙖𝒏𝙙 𝙬𝒉𝙖𝒕 𝒊 𝒍𝙚𝒂𝙧𝒏𝙩 𝙞𝒏 𝒕𝙝𝒆 𝒑𝙧𝒐𝙘𝒆𝙨𝒔!! 🚀
+### 𝗛𝗲𝗿𝗲'𝘀 𝗵𝗼𝘄 𝗜 𝗱𝗶𝗱 𝗶𝘁 𝗮𝗻𝗱 𝘄𝗵𝗮𝘁 𝗜 𝗹𝗲𝗮𝗿𝗻𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀!! 🚀
 
 ![image](https://github.com/user-attachments/assets/453cd626-562e-4ca8-8185-5cdd36177711)
 
@@ -68,10 +68,18 @@ The 'input' function in python allows us to recieve a users input which is the i
 In this part of the code, the function 'len ()' is what counts the characters in a string which also includes spaces and punctuation.
 By adding the variable 'text' between the 'len ()' function directly makes the code count the characters within the text given by the users input.
 
-![image](https://github.com/user-attachments/assets/50fc221c-c966-42a1-8a0b-b01c5bf23b2d)
+![image](https://github.com/user-attachments/assets/b8c4236b-682d-4c34-9879-810ab7f15bca)
 
 This is an extention to our script that specifies that the 'len ()' function should only count the alphabetical characters in a string
 The '.isalpha()' function is what essentially does this for us!. This means that with this addition to the script, only the letters within the text, the user inputs will be counted meaning that spaces and punctuation will be dismissed.
+
+𝗙𝗼𝗿 𝗲𝘅𝗮𝗺𝗽𝗹𝗲, 𝗶𝗳 𝘁𝗵𝗲 𝘂𝘀𝗲𝗿 𝘄𝗮𝘀 𝗲𝗻𝘁𝗲𝗿𝘀 '𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱', 𝘁𝗵𝗲 𝘀𝗰𝗿𝗶𝗽𝘁 𝘄𝗶𝗹𝗹 𝗽𝗿𝗶𝗻𝘁 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗰𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿𝘀 𝗳𝗶𝗿𝘀𝘁 𝘄𝗵𝗶𝗰𝗵 𝗶𝘀 𝟭𝟯 𝗮𝗻𝗱 𝘁𝗵𝗲𝗻 𝗽𝗿𝗶𝗻𝘁 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗹𝗲𝘁𝘁𝗲𝗿𝘀 𝘄𝗵𝗶𝗰𝗵 𝗶𝘀 𝟭𝟬, 𝗶𝗴𝗻𝗼𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝘀𝗽𝗮𝗰𝗲 𝗮𝗻𝗱 𝗽𝘂𝗻𝗰𝘁𝘂𝗮𝘁𝗶𝗼𝗻.
+
+![image](https://github.com/user-attachments/assets/8c432c30-caa5-40ca-a111-b4d86740f550)
+
+Finally, this last part of the code will show the result to the user.
+The 'print' function in python, prints out text in the code. 
+In this case it will print out the variable 'character_count' which contains the process of the 'len ()' function that we added to perform the character counting function.
 
 
 
