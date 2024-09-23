@@ -22,7 +22,7 @@ Docker compose is a tool for defining and running multi container docker applica
 
 ![image](https://github.com/user-attachments/assets/e331401f-c525-46e2-844c-0a0771378cd0)
 
-And these are the Components of Docker!!
+# And these are the Components of Docker!! 🐳
 
 ![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/85009425-9019-4c92-8d1b-f13cb34187e4)
 
