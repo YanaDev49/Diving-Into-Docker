@@ -77,9 +77,26 @@ Finally, this last part of the code will show the result to the user.
 The 'print' function in python, prints out text in the code. 
 In this case it will print out the variable 'character_count' which contains the process of the 'len ()' function that we added to perform the character counting process.
 
-## Docker, Containerisation Process
+## The Containerisation Process Of My Python Script 🐳
 
-Now its time to combine what we've learnt in python scripting using docker 
+𝘕𝘰𝘸 𝘪𝘵𝘴 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘤𝘰𝘮𝘣𝘪𝘯𝘦 𝘸𝘩𝘢𝘵 𝘸𝘦'𝘷𝘦 𝘭𝘦𝘢𝘳𝘯𝘵 𝘪𝘯 𝘱𝘺𝘵𝘩𝘰𝘯 𝘴𝘤𝘳𝘪𝘱𝘵𝘪𝘯𝘨 𝘶𝘴𝘪𝘯𝘨 𝘥𝘰𝘤𝘬𝘦𝘳!
+
+## 𝖲𝗍𝖾𝗉 𝟣: 𝖨𝗇𝗌𝗍𝖺𝗅𝗅𝗂𝗇𝗀 𝖣𝗈𝖼𝗄𝖾𝗋 𝗈𝗇 𝗒𝗈𝗎𝗋 𝗆𝖺𝖼𝗁𝗂𝗇𝖾 
+
+So the first thing that i did in this process was install Docker on my computer using my vscode terminal! ⤵️
+
+![image](https://github.com/user-attachments/assets/c52d2110-2956-4069-bf18-5e7a126d410f)
+
+Before the installation process its important to update your packages because it ensures that you have access to the lastest software versions that include important bug fixes, security patches etc.
+
+![image](https://github.com/user-attachments/assets/cc31eca3-13e9-4d18-bb5b-1940a5be7869)
+
+This is the command that gets the installation process for Docker going!! 
+
+All you need to do now is verify that Docker has been installed correctly using this command:
+
+![image](https://github.com/user-attachments/assets/3240aaa7-d7c4-4d4c-9c3c-511fbcbf8f53)
+
 
 
 
