@@ -143,6 +143,10 @@ Run the 'docker pull python' command and this will download the official python 
 
 ![image](https://github.com/user-attachments/assets/3f0d8187-e241-4c29-bd68-8a8fb4b82647)
 
+## 𝖲𝗍𝖾𝗉 𝟦: 𝖨𝗍𝗌 𝗍𝗂𝗆𝖾 𝗍𝗈 𝖱𝗎𝗇 𝗒𝗈𝗎𝗋 𝖣𝗈𝖼𝗄𝖾𝗋 𝗂𝗆𝖺𝗀𝖾!!
+
+To wrap up this process, we need to run the 'docker run python-test' command to launch our python code! 
+
 
 
 
