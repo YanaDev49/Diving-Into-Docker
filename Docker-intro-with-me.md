@@ -2,7 +2,7 @@
 
 Hello Everyone 👋 Welcome to my Docker Repository, where i take you through everything that ive learnt about Docker and containerisation, as well as some exciting projects!🚀🎉 
 
-Im currently working on a really exciting project including a Web Scraping python script that i aim to containerise with Docker at the end of the process! 👀
+Im currently working on a really exciting project including a String counting python script that i aim to containerise with Docker at the end of the process! 👀
 
 𝐒𝐭𝐚𝐲 𝐓𝐮𝐧𝐞𝐝!! 🚨
 
