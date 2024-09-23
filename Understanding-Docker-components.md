@@ -20,5 +20,9 @@ Docker Hub is a repository where you can find and share your container images. T
 
 Docker compose is a tool for defining and running multi container docker applications. So remember how we said that Docker manages containers which contain applications? Docker compose helps manage more than one container. Its like writing a documentation of how your entire application should run, how they interact and what services are needed. For example, lets say your application needs a web server a database and a cache, docker compose helps you define these components together because these componets are required in an application.
 
+![image](https://github.com/user-attachments/assets/e331401f-c525-46e2-844c-0a0771378cd0)
 
+And these are the Components of Docker!!
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/85009425-9019-4c92-8d1b-f13cb34187e4)
 
