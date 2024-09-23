@@ -75,9 +75,11 @@ The '.isalpha()' function is what essentially does this for us!. This means that
 
 Finally, this last part of the code will show the result to the user.
 The 'print' function in python, prints out text in the code. 
-In this case it will print out the variable 'character_count' which contains the process of the 'len ()' function that we added to perform the character counting function.
+In this case it will print out the variable 'character_count' which contains the process of the 'len ()' function that we added to perform the character counting process.
 
+## Docker, Containerisation Process
 
+Now its time to combine what we've learnt in python scripting using docker 
 
 
 
