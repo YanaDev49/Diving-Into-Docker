@@ -123,7 +123,21 @@ Run the ![image](https://github.com/user-attachments/assets/6a925628-8d9e-4023-a
 
 ## Key Contents Of A Dockerfile 🗃️
 
-A Dockerfile 
+𝖠 𝖣𝗈𝖼𝗄𝖾𝗋𝖿𝗂𝗅𝖾 𝗆𝗎𝗌𝗍 𝖺𝗅𝗐𝖺𝗒𝗌 𝖻𝖾𝗀𝗂𝗇 𝖻𝗒 𝗌𝗉𝖾𝖼𝗂𝖿𝗂𝗒𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝖺𝗌𝖾 𝗂𝗆𝖺𝗀𝖾!
+
+- We use the keyword 'FROM' to do this
+- In our example, we are using the Python image, so we specify 'Python' as the image name and the 'latest' as the version tag.
+
+![image](https://github.com/user-attachments/assets/7254cb61-1ba3-4106-9bdf-a904c7b2b664)
+
+𝖭𝖾𝗑𝗍, 𝗐𝖾 𝗇𝖾𝖾𝖽 𝗍𝗈 𝗂𝗇𝖼𝗅𝗎𝖽𝖾 𝗈𝗎𝗋 𝗉𝗒𝗍𝗁𝗈𝗇 𝗌𝖼𝗋𝗂𝗉𝗍 𝗂𝗇 𝗍𝗁𝖾 𝗂𝗆𝖺𝗀𝖾!
+
+- We use the 'COPY' command for this purpose.
+- The first parameter, 'string-count-script.py', refers to the file on my computer that contains my python script
+- The second parameter, '/', specifies the destination path in the image, placing the file in the root directory
+
+![image](https://github.com/user-attachments/assets/1eac5364-af7e-4e00-b5f4-76f04ce00c46)
+
 
 
 
