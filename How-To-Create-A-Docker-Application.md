@@ -109,7 +109,7 @@ In the approach i took, i already created my python file before creating my dock
 
 𝖣𝗈𝖼𝗄𝖾𝗋 𝖧𝗎𝖻 𝗂𝗌 𝗐𝗁𝖺𝗍 𝗉𝗋𝗈𝗏𝗂𝖽𝖾𝗌 𝗉𝗋𝖾-𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗂𝗆𝖺𝗀𝖾𝗌 𝗍𝗈 𝗉𝗎𝗅𝗅 𝖺𝗇𝖽 𝗎𝗌𝖾 𝗂𝗇 𝖽𝗈𝖼𝗄𝖾𝗋 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋𝗌!!
 
-run the ![image](https://github.com/user-attachments/assets/2c8e1115-d04c-4092-9c89-654cccc3e8a2) command and this will download the official python Docker image from DockerHub to your local machine. This image includes a python enviroment that you can use to run Python applications inside Docker Containers.
+Run the ![image](https://github.com/user-attachments/assets/6a925628-8d9e-4023-acf2-5eaf23badcf3) command and this will download the official python Docker image from DockerHub to your local machine. This image includes a python enviroment that you can use to run Python applications inside Docker Containers.
 
 
 
