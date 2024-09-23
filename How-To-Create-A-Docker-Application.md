@@ -87,19 +87,17 @@ So the first thing that i did in this process was install Docker on my computer 
 
 ![image](https://github.com/user-attachments/assets/c52d2110-2956-4069-bf18-5e7a126d410f)
 
-Before the installation process its important to update your packages because it ensures that you have access to the lastest software versions that include important bug fixes, security patches etc.
+Before the installation process begins, its important to update your packages because it ensures that you have access to the lastest software versions that include important bug fixes, security patches etc.
 
 ![image](https://github.com/user-attachments/assets/cc31eca3-13e9-4d18-bb5b-1940a5be7869)
 
-This is the command that gets the installation process for Docker going!! 
+This is the command that gets the installation process for Docker going!!🔝
 
 All you need to do now is verify that Docker has been installed correctly using this command:
 
 ![image](https://github.com/user-attachments/assets/3240aaa7-d7c4-4d4c-9c3c-511fbcbf8f53)
 
 ## 𝖲𝗍𝖾𝗉 𝟤: 𝖢𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝗍𝗁𝖾 𝖣𝗈𝖼𝗄𝖾𝗋 𝖺𝗇𝖽 𝖯𝗒𝗍𝗁𝗈𝗇 𝖿𝗂𝗅𝖾𝗌 
-
-In the approach i took, i already created my python file before creating my docker file. This means that i set up my docker file beforehand and all i needed to do was edit the file according to my python file. I'll show you what i mean down below ⤵️
 
 ![image](https://github.com/user-attachments/assets/c8c19372-3a35-4b67-a42f-d1bf8f9de4ad)
 
@@ -109,16 +107,16 @@ In the approach i took, i already created my python file before creating my dock
 
 𝖣𝗈𝖼𝗄𝖾𝗋 𝖧𝗎𝖻 𝗂𝗌 𝗐𝗁𝖺𝗍 𝗉𝗋𝗈𝗏𝗂𝖽𝖾𝗌 𝗉𝗋𝖾-𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗂𝗆𝖺𝗀𝖾𝗌 𝗍𝗈 𝗉𝗎𝗅𝗅 𝖺𝗇𝖽 𝗎𝗌𝖾 𝗂𝗇 𝖽𝗈𝖼𝗄𝖾𝗋 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋𝗌!!
 
-Run the ![image](https://github.com/user-attachments/assets/6a925628-8d9e-4023-acf2-5eaf23badcf3) command and this will download the official python Docker image from DockerHub to your local machine. This image includes a python enviroment that you can use to run Python applications inside Docker Containers.
+Run the 'docker pull python' command and this will download the official python Docker image from DockerHub to your local machine. This image includes a python enviroment that you can use to run Python applications inside Docker Containers.
 
 ## 𝖲𝗍𝖾𝗉 𝟥: 𝖤𝖽𝗂𝗍𝗂𝗇𝗀 𝗒𝗈𝗎𝗋 𝖽𝗈𝖼𝗄𝖾𝗋 𝖿𝗂𝗅𝖾
 
 ![image](https://github.com/user-attachments/assets/70683d18-f523-46fb-b9b8-56c29dfe5404)
 
-- Using the 'vim' command, open the docker file
-- Give it the specific name 'Dockerfile' and you should see that when you save the file, the docker icon appears beside the file
+- Using the 'vim' command, open the docker file.
+- Give it the specific name 'Dockerfile', and you should see that when the file is saved, the docker icon appears beside it.
 
-#### This should look like this:
+#### what it should look like:
 ![image](https://github.com/user-attachments/assets/9c2f1201-41ed-410c-85ea-3328b0657dcf)
 
 ## Key Contents Of A Dockerfile 🗃️
