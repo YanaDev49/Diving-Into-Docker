@@ -59,3 +59,8 @@ The only visual difference is with the type of brackets used as well as  the dif
 
 ### 𝑯𝙚𝒓𝙚𝒔 𝒉𝙤𝒘 𝒊 𝒅𝙞𝒅 𝒊𝙩 𝙖𝒏𝙙 𝙬𝒉𝙖𝒕 𝒊 𝒍𝙚𝒂𝙧𝒏𝙩 𝙞𝒏 𝒕𝙝𝒆 𝒑𝙧𝒐𝙘𝒆𝙨𝒔!! 🚀
 
+![image](https://github.com/user-attachments/assets/453cd626-562e-4ca8-8185-5cdd36177711)
+
+The 'input' function in python allows us to recieve a users input which is the interactive part of the script itself. This means that when we run the script, the text ' ![image](https://github.com/user-attachments/assets/65010804-9619-4d67-8ccf-887c3b1cd01d) ' will show up, indicating that the user should type in a message! 
+
+
