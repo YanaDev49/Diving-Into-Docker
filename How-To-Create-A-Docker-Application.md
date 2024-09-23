@@ -111,9 +111,19 @@ In the approach i took, i already created my python file before creating my dock
 
 Run the ![image](https://github.com/user-attachments/assets/6a925628-8d9e-4023-acf2-5eaf23badcf3) command and this will download the official python Docker image from DockerHub to your local machine. This image includes a python enviroment that you can use to run Python applications inside Docker Containers.
 
+## 𝖲𝗍𝖾𝗉 𝟥: 𝖤𝖽𝗂𝗍𝗂𝗇𝗀 𝗒𝗈𝗎𝗋 𝖽𝗈𝖼𝗄𝖾𝗋 𝖿𝗂𝗅𝖾
 
+![image](https://github.com/user-attachments/assets/70683d18-f523-46fb-b9b8-56c29dfe5404)
 
+- Using the 'vim' command, open the docker file
+- Give it the specific name 'Dockerfile' and you should see that when you save the file, the docker icon appears beside the file
 
+#### This should look like this:
+![image](https://github.com/user-attachments/assets/9c2f1201-41ed-410c-85ea-3328b0657dcf)
+
+## Key Contents Of A Dockerfile 🗃️
+
+A Dockerfile 
 
 
 
