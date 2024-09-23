@@ -12,7 +12,7 @@
 ![PythonPoweredGIF](https://github.com/user-attachments/assets/c44680f3-767e-470f-98da-8d7a720fd156)
 
 Making my first mini python stcript was definitely interesting yet challenging at the same time
-since this was one of the first encounters ive had with the programming language and i needed to make sure i understood the basics 💡
+since this was one of the first encounters ive had with the programming language and i needed to make sure i understood the basics
 So i did some research on the basics of Python and everything i needed to know for making a short but interactive script!!
 
 ![image](https://github.com/user-attachments/assets/d10ad6d5-324e-4bd6-8ac2-60480d71d09c)
@@ -21,7 +21,7 @@ Previously, i was learning about the nature of bash scripting and while understa
 
 The only difference is that in python, you have put a space between the '=' character and the variable assigned however, Bash scripting does not require this further adjustment!
 
-## 𝗟𝗲𝘁 𝗺𝗲 𝘀𝗵𝗼𝘄 𝘆𝗼𝘂 𝗶𝗻 𝘃𝗶𝘀𝘂𝗮𝗹 𝗰𝗼𝗻𝘁𝗲𝘅𝘁:
+## 𝗟𝗲𝘁 𝗺𝗲 𝘀𝗵𝗼𝘄 𝘆𝗼𝘂 𝗮 𝘃𝗶𝘀𝘂𝗮𝗹 𝗲𝘅𝗮𝗺𝗽𝗹𝗲:
 
 𝑇𝘩𝑖𝘴 𝘪𝑠 𝑎𝘯 𝘦𝑥𝘢𝑚𝘱𝑙𝘦 𝘰𝑓 𝑣𝘢𝑟𝘪𝑎𝘣𝑙𝘦 𝘢𝑠𝘴𝑖𝘨𝑛𝘮𝑒𝘯𝑡 𝑖𝘯 𝘣𝑎𝘴ℎ 𝑠𝘤𝑟𝘪𝑝𝘵𝑖𝘯𝑔
 
@@ -33,25 +33,21 @@ As you can see there is no space between the '=' along with the variable and its
 
 ![image](https://github.com/user-attachments/assets/68152c6f-a052-4e17-9a82-e40fba11db7a) blog.penjee.com
 
-You can see that a space between the variable and its assignment has to be put in place! 
+You can see that a space between the variable and its assignment needs to be put in place! 
 
 Another quick similarity between both bash scripting and the python programming language is that they both use control structures like 'if', 'for', and 'while' loops.
 
-𝗟𝗲𝘁𝘀 𝘁𝗮𝗸𝗲 𝗮 𝗹𝗼𝗼𝗸 𝗮𝘁 𝘀𝗼𝗺𝗲 𝗾𝘂𝗶𝗰𝗸 𝗲𝘅𝗮𝗺𝗽𝗹𝗲𝘀:
+𝗧𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗯𝗮𝘀𝗵 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
 
 ![image](https://github.com/user-attachments/assets/3e1ef8bb-c68b-49ff-a49e-56013d45aba3)
 
-𝗧𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗯𝗮𝘀𝗵 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
+𝗮𝗻𝗱 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗽𝘆𝘁𝗵𝗼𝗻 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
 
 ![image](https://github.com/user-attachments/assets/0a000c38-66cb-474f-ac70-ba17c9e8c5bd)
 
-𝗮𝗻𝗱 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗽𝘆𝘁𝗵𝗼𝗻 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
-
-The only visual difference is with the type of brackets used as well as  the differing language types, E.g using ![image](https://github.com/user-attachments/assets/cf121b4e-5b34-485d-8e91-05e8b17e34eb)
- instead of ![image](https://github.com/user-attachments/assets/581f09d4-5651-4d5c-a6a3-bab90f079d0f)
+The only visual difference is with the type of brackets used as well as  the differing language types, E.g using 'echo' instead of using 'print' 
 
 ## Creating a python script that counts the number of characters in each string!! 🚀  
-![CodingProgrammerGIF](https://github.com/user-attachments/assets/6860526e-8824-4687-8ccd-8db211ba10da)
 
 𝐴𝘧𝑡𝘦𝑟 𝑑𝘰𝑖𝘯𝑔 𝑠𝘰𝑚𝘦 𝘭𝑒𝘢𝑟𝘯𝑖𝘯𝑔 𝑎𝘯𝑑 𝑡𝘩𝑜𝘳𝑜𝘶𝑔𝘩 𝘳𝑒𝘴𝑒𝘢𝑟𝘤ℎ, 𝘪 𝘸𝘢𝘴 𝘢𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢 𝘱𝘺𝘵𝘩𝘰𝘯 𝘴𝘤𝘳𝘪𝘱𝘵 𝘵𝘩𝘢𝘵 𝘤𝘰𝘶𝘯𝘵𝘴 𝘵𝘩𝘦 𝘯𝘶𝘮𝘣𝘦𝘳 𝘰𝘧 𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴 𝘪𝘯 𝘢 𝘨𝘪𝘷𝘦𝘯 𝘵𝘦𝘹𝘵 📝 ⤵️
 
