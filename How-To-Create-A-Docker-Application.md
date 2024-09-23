@@ -138,6 +138,13 @@ Run the ![image](https://github.com/user-attachments/assets/6a925628-8d9e-4023-a
 
 ![image](https://github.com/user-attachments/assets/1eac5364-af7e-4e00-b5f4-76f04ce00c46)
 
+𝖥𝗂𝗇𝖺𝗅𝗅𝗒, 𝗐𝖾 𝗇𝖾𝖾𝖽 𝗍𝗈 𝖽𝖾𝖿𝗂𝗇𝖾 𝗍𝗁𝖾 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗁𝖺𝗍 𝗐𝗂𝗅𝗅 𝗋𝗎𝗇 𝗐𝗁𝖾𝗇 𝗍𝗁𝖾 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋 𝗌𝗍𝖺𝗋𝗍𝗌!
+
+- This is done using the keyword 'CMD'
+- In my case, the command will run 'Python ./string-count-script.py', which executes our Python script.
+
+![image](https://github.com/user-attachments/assets/3f0d8187-e241-4c29-bd68-8a8fb4b82647)
+
 
 
 
