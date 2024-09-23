@@ -1,4 +1,4 @@
-# What Are Images And Containers? 🐳
+# What Are Images And Containers In Docker? 🐳
 
 ![image](https://github.com/user-attachments/assets/cc8f9bd0-4d16-498e-a375-885fe2f2fcd9)
 
@@ -27,8 +27,8 @@ This is an image of a small docker file i have created for a little python scrip
 
 ![image](https://github.com/user-attachments/assets/e74b94a1-97e2-4d03-a8f0-aa96123a1090)
 
-This is just a minor python script that prints text on the screen, but ill show you how i deleloped a more detailed script and containerised it using docker in upcoming files! 😆
+This is just a minor python script that prints text on the screen, but ill show you how i developed a more detailed script and containerised it using docker in upcoming files! 😆
 
-## And There You Have it!! We have looked at the details of both images and containers in docker!!
+## And There You Have it!! We have looked at the details of both images and containers in docker!!🚀🚀
 
 ![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/247eca35-7759-46ac-a8ec-20dd1af68a71)
