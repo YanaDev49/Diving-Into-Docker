@@ -143,9 +143,36 @@ Run the 'docker pull python' command and this will download the official python 
 
 ![image](https://github.com/user-attachments/assets/3f0d8187-e241-4c29-bd68-8a8fb4b82647)
 
-## 𝖲𝗍𝖾𝗉 𝟦: 𝖨𝗍𝗌 𝗍𝗂𝗆𝖾 𝗍𝗈 𝖱𝗎𝗇 𝗒𝗈𝗎𝗋 𝖣𝗈𝖼𝗄𝖾𝗋 𝗂𝗆𝖺𝗀𝖾!!
+## 𝖲𝗍𝖾𝗉 𝟦: 𝖨𝗍𝗌 𝗍𝗂𝗆𝖾 𝗍𝗈 𝖼𝗋𝖾𝖺𝗍𝖾 𝖺 𝖣𝗈𝖼𝗄𝖾𝗋 𝗂𝗆𝖺𝗀𝖾!!
 
-To wrap up this process, we need to run the 'docker run python-test' command to launch our python code! 
+After editing your Dockerfile, you need to run the command:
+
+![image](https://github.com/user-attachments/assets/df259765-5a0f-4d6b-9351-98b5126152db)
+
+This command builds a Docker image from the Dockerfile in the current directory and tags it as 'python-test'
+
+## 𝖲𝗍𝖾𝗉 5: 𝖨𝗍𝗌 𝗍𝗂𝗆𝖾 𝗍𝗈 𝖱𝗎𝗇 𝗒𝗈𝗎𝗋 𝖣𝗈𝖼𝗄𝖾𝗋 𝗂𝗆𝖺𝗀𝖾!!
+
+To wrap up this process, we need to run the command: 
+
+![image](https://github.com/user-attachments/assets/00ce4103-dc07-4a79-a650-bdecb8530aa6)
+
+Now, in my case regarding my python script, this command resulted in an error and did not run the script as i expected, which too me down a long and intensive 𝗧𝗿𝗼𝘂𝗯𝗹𝗲𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴 process!! 👀
+
+##  𝖴𝗇𝖽𝖾𝗋𝗌𝗍𝖺𝗇𝖽𝗂𝗇𝗀 𝗁𝗈𝗐 𝗍𝗈 𝖿𝗂𝗑 𝗍𝗁𝖾 𝗉𝗋𝗈𝖻𝗅𝖾𝗆 𝖺𝗇𝖽 𝗐𝗁𝖺𝗍 𝗐𝖾𝗇𝗍 𝗐𝗋𝗈𝗇𝗀!
+
+![PleaseStandbyWereExperiencingTechnicalDifficultiesStateChampsGIF](https://github.com/user-attachments/assets/2b1b7271-027f-453b-ab8f-dc07a1c28c57)
+
+###  𝖢𝖠𝖴𝖳𝖨𝖮𝖭 ⚠️: 𝖱𝖾𝖺𝗅𝗇𝖾𝗌𝗌 𝖠𝗅𝖾𝗋𝗍 🚨(𝗐𝗁𝖺𝗍 𝗁𝖺𝗉𝗉𝖾𝗇𝖾𝖽 𝗐𝗁𝖾𝗇 𝗍𝗁𝗂𝗇𝗀𝗌 𝗐𝖾𝗇𝗍 𝗐𝗋𝗈𝗇𝗀)
+
+To put it plainly, i spiralled into despair because i was thinking that i went through this whole process of learning, understanding and building for my containerised script not to run in the end? 😭
+
+![ErrorGIF](https://github.com/user-attachments/assets/9c84f6c1-3830-434f-bd5b-9791e1552984)
+
+But i didnt give up there! I started to do some research on my issue and i found that, because my python script required user input, my container needed the necessary flags for allowing user inputs to come through for my script. This means that every time my container tried to launch the script, it would just immediately exit out of it!! 
+
+![image](https://github.com/user-attachments/assets/3ca3fcba-b227-44de-a81f-2e04fc892090)
+
 
 
 
