@@ -173,7 +173,14 @@ But i didnt give up there! I started to do some research on my issue and i found
 
 ![image](https://github.com/user-attachments/assets/3ca3fcba-b227-44de-a81f-2e04fc892090)
 
+I then came accross the command:
 
+![image](https://github.com/user-attachments/assets/c06327cb-8ba1-4d38-a612-3ba37414ab64)
+
+WHICH SUCCESSESFULLY LAUNCHED MY SCRIPT!!
+
+![Screenshot 2024-09-24 020422](https://github.com/user-attachments/assets/aaeee716-1113-4dc0-a23b-cbb145183ba0)
+![Screenshot 2024-09-24 020750](https://github.com/user-attachments/assets/54fd3dfe-3759-4156-bc09-cd7b590626ca)
 
 
 
