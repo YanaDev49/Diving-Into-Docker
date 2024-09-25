@@ -65,9 +65,9 @@ In this part of the code, the 'len()' function counts the characters in a string
 
 ![image](https://github.com/user-attachments/assets/b8c4236b-682d-4c34-9879-810ab7f15bca)
 
-This is an extention to our script that specifies that the 'len ()' function should only count the alphabetical characters in a string. The '.isalpha()' function is what essentially does this for us!. 
+- This is an extention to our script that specifies that the 'len ()' function should only count the alphabetical characters in a string. The '.isalpha()' function is what essentially does this for us!. 
 
-This means that with this addition to the script, only the letters within the textnwill be counted meaning that spaces and punctuation will be dismissed.
+- This means that with this addition to the script, only the letters within the textnwill be counted meaning that spaces and punctuation will be dismissed.
 
 𝗙𝗼𝗿 𝗲𝘅𝗮𝗺𝗽𝗹𝗲, 𝗶𝗳 𝘁𝗵𝗲 𝘂𝘀𝗲𝗿 𝘄𝗮𝘀 𝗲𝗻𝘁𝗲𝗿𝘀 '𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱', 𝘁𝗵𝗲 𝘀𝗰𝗿𝗶𝗽𝘁 𝘄𝗶𝗹𝗹 𝗽𝗿𝗶𝗻𝘁 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗰𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿𝘀 𝗳𝗶𝗿𝘀𝘁 𝘄𝗵𝗶𝗰𝗵 𝗶𝘀 𝟭𝟯 𝗮𝗻𝗱 𝘁𝗵𝗲𝗻 𝗽𝗿𝗶𝗻𝘁 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗹𝗲𝘁𝘁𝗲𝗿𝘀 𝘄𝗵𝗶𝗰𝗵 𝗶𝘀 𝟭𝟬, 𝗶𝗴𝗻𝗼𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝘀𝗽𝗮𝗰𝗲 𝗮𝗻𝗱 𝗽𝘂𝗻𝗰𝘁𝘂𝗮𝘁𝗶𝗼𝗻.
 
@@ -85,17 +85,17 @@ Finally, this last part of the code will show the result to the user.
 
 ## 𝖲𝗍𝖾𝗉 𝟣: 𝖨𝗇𝗌𝗍𝖺𝗅𝗅𝗂𝗇𝗀 𝖣𝗈𝖼𝗄𝖾𝗋 𝗈𝗇 𝗒𝗈𝗎𝗋 𝗆𝖺𝖼𝗁𝗂𝗇𝖾 
 
-So the first thing that i did in this process was install Docker on my computer using my vscode terminal! ⤵️
+- So the first thing that i did in this process was install Docker on my computer using my vscode terminal! ⤵️
 
 ![image](https://github.com/user-attachments/assets/c52d2110-2956-4069-bf18-5e7a126d410f)
 
-Before beginning the installation process, it's important to update your packages to ensure you have access to the latest software versions, which include important bug fixes, security patches, and other improvements.
+#### Before beginning the installation process, it's important to update your packages to ensure you have access to the latest software versions, which include important bug fixes, security patches, and other improvements.
 
 ![image](https://github.com/user-attachments/assets/cc31eca3-13e9-4d18-bb5b-1940a5be7869)
 
-This is the command that gets the installation process for Docker going!!🔝
+- This is the command that gets the installation process for Docker going!!🔝
 
-Now, All you need to do is verify that Docker has been installed correctly using this command:
+#### Now, All you need to do is verify that Docker has been installed correctly using this command:
 
 ![image](https://github.com/user-attachments/assets/3240aaa7-d7c4-4d4c-9c3c-511fbcbf8f53)
 
@@ -103,11 +103,11 @@ Now, All you need to do is verify that Docker has been installed correctly using
 
 ![image](https://github.com/user-attachments/assets/c8c19372-3a35-4b67-a42f-d1bf8f9de4ad)
 
-𝖬𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝗐𝖺𝗒 𝗍𝗈 𝗍𝗁𝖾 𝖣𝗈𝖼𝗄𝖾𝗋𝖧𝗎𝖻 𝗐𝖾𝖻𝗌𝗂𝗍𝖾 𝖺𝗇𝖽 𝗍𝗒𝗉𝖾 '𝖯𝗒𝗍𝗁𝗈𝗇' 𝗂𝗇 𝗍𝗁𝖾 𝗌𝖾𝖺𝗋𝖼𝗁 𝖻𝖺𝗋. 𝖳𝗁𝗂𝗌 𝗐𝗂𝗅𝗅 𝗀𝗂𝗏𝖾 𝗒𝗈𝗎 𝗍𝗁𝖾 𝗈𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝗂𝗆𝖺𝗀𝖾 𝖼𝗋𝖾𝖺𝗍𝖾𝖽 𝗍𝗈 𝖾𝗑𝖾𝖼𝗎𝗍𝖾 𝖯𝗒𝗍𝗁𝗈𝗇. 
+- 𝖬𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝗐𝖺𝗒 𝗍𝗈 𝗍𝗁𝖾 𝖣𝗈𝖼𝗄𝖾𝗋𝖧𝗎𝖻 𝗐𝖾𝖻𝗌𝗂𝗍𝖾 𝖺𝗇𝖽 𝗍𝗒𝗉𝖾 '𝖯𝗒𝗍𝗁𝗈𝗇' 𝗂𝗇 𝗍𝗁𝖾 𝗌𝖾𝖺𝗋𝖼𝗁 𝖻𝖺𝗋. 𝖳𝗁𝗂𝗌 𝗐𝗂𝗅𝗅 𝗀𝗂𝗏𝖾 𝗒𝗈𝗎 𝗍𝗁𝖾 𝗈𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝗂𝗆𝖺𝗀𝖾 𝖼𝗋𝖾𝖺𝗍𝖾𝖽 𝗍𝗈 𝖾𝗑𝖾𝖼𝗎𝗍𝖾 𝖯𝗒𝗍𝗁𝗈𝗇. 
 
-𝖱𝖾𝗆𝖾𝗆𝖻𝖾𝗋 𝗐𝗁𝖾𝗇 𝗐𝖾 𝗍𝖺𝗅𝗄𝖾𝖽 𝖺𝖻𝗈𝗎𝗍 𝖣𝗈𝖼𝗄𝖾𝗋𝖧𝗎𝖻 𝗉𝗋𝖾𝗏𝗂𝗈𝗎𝗌𝗅𝗒? 
+#### 𝖱𝖾𝗆𝖾𝗆𝖻𝖾𝗋 𝗐𝗁𝖾𝗇 𝗐𝖾 𝗍𝖺𝗅𝗄𝖾𝖽 𝖺𝖻𝗈𝗎𝗍 𝖣𝗈𝖼𝗄𝖾𝗋𝖧𝗎𝖻 𝗉𝗋𝖾𝗏𝗂𝗈𝗎𝗌𝗅𝗒? 
 
-𝖣𝗈𝖼𝗄𝖾𝗋 𝖧𝗎𝖻 𝗂𝗌 𝗐𝗁𝖺𝗍 𝗉𝗋𝗈𝗏𝗂𝖽𝖾𝗌 𝗉𝗋𝖾-𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗂𝗆𝖺𝗀𝖾𝗌 𝗍𝗈 𝗉𝗎𝗅𝗅 𝖺𝗇𝖽 𝗎𝗌𝖾 𝗂𝗇 𝖽𝗈𝖼𝗄𝖾𝗋 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋𝗌!!
+##### 𝖣𝗈𝖼𝗄𝖾𝗋 𝖧𝗎𝖻 𝗂𝗌 𝗐𝗁𝖺𝗍 𝗉𝗋𝗈𝗏𝗂𝖽𝖾𝗌 𝗉𝗋𝖾-𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗂𝗆𝖺𝗀𝖾𝗌 𝗍𝗈 𝗉𝗎𝗅𝗅 𝖺𝗇𝖽 𝗎𝗌𝖾 𝗂𝗇 𝖽𝗈𝖼𝗄𝖾𝗋 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋𝗌!!
 
 - Run the 'docker pull python' command and this will download the official python Docker image from DockerHub to your local machine.
 - This image includes a python enviroment that you can use to run Python applications inside Docker Containers.
@@ -124,7 +124,7 @@ Now, All you need to do is verify that Docker has been installed correctly using
 
 ## Key Contents Of A Dockerfile 🗃️
 
-𝖠 𝖣𝗈𝖼𝗄𝖾𝗋𝖿𝗂𝗅𝖾 𝗆𝗎𝗌𝗍 𝖺𝗅𝗐𝖺𝗒𝗌 𝖻𝖾𝗀𝗂𝗇 𝖻𝗒 𝗌𝗉𝖾𝖼𝗂𝖿𝗂𝗒𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝖺𝗌𝖾 𝗂𝗆𝖺𝗀𝖾!
+#### 𝖠 𝖣𝗈𝖼𝗄𝖾𝗋𝖿𝗂𝗅𝖾 𝗆𝗎𝗌𝗍 𝖺𝗅𝗐𝖺𝗒𝗌 𝖻𝖾𝗀𝗂𝗇 𝖻𝗒 𝗌𝗉𝖾𝖼𝗂𝖿𝗂𝗒𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝖺𝗌𝖾 𝗂𝗆𝖺𝗀𝖾!
 
 - We use the keyword 'FROM' to do this
 - In our example, we are using the Python image, so we specify 'Python' as the image name and the 'latest' as the version tag.
@@ -139,7 +139,7 @@ Now, All you need to do is verify that Docker has been installed correctly using
 
 ![image](https://github.com/user-attachments/assets/c273a340-4fe6-40d0-b035-5634e0def87d)
 
-𝖥𝗂𝗇𝖺𝗅𝗅𝗒, 𝗐𝖾 𝗇𝖾𝖾𝖽 𝗍𝗈 𝖽𝖾𝖿𝗂𝗇𝖾 𝗍𝗁𝖾 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗁𝖺𝗍 𝗐𝗂𝗅𝗅 𝗋𝗎𝗇 𝗐𝗁𝖾𝗇 𝗍𝗁𝖾 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋 𝗌𝗍𝖺𝗋𝗍𝗌!
+#### 𝖥𝗂𝗇𝖺𝗅𝗅𝗒, 𝗐𝖾 𝗇𝖾𝖾𝖽 𝗍𝗈 𝖽𝖾𝖿𝗂𝗇𝖾 𝗍𝗁𝖾 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗁𝖺𝗍 𝗐𝗂𝗅𝗅 𝗋𝗎𝗇 𝗐𝗁𝖾𝗇 𝗍𝗁𝖾 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝖾𝗋 𝗌𝗍𝖺𝗋𝗍𝗌!
 
 - This is done using the keyword 'CMD'
 - In my case, the command will run 'Python ./string-count-script.py', which executes our Python script.
@@ -148,19 +148,19 @@ Now, All you need to do is verify that Docker has been installed correctly using
 
 ## 𝖲𝗍𝖾𝗉 𝟦: 𝖨𝗍𝗌 𝗍𝗂𝗆𝖾 𝗍𝗈 𝖼𝗋𝖾𝖺𝗍𝖾 𝖺 𝖣𝗈𝖼𝗄𝖾𝗋 𝗂𝗆𝖺𝗀𝖾!!
 
-After editing your Dockerfile, you need to run the command:
+- After editing your Dockerfile, you need to run the command:
 
 ![image](https://github.com/user-attachments/assets/df259765-5a0f-4d6b-9351-98b5126152db)
 
-This command builds a Docker image from the Dockerfile in the current directory and tags it as 'python-test'.
+- This command builds a Docker image from the Dockerfile in the current directory and tags it as 'python-test'.
 
 ## 𝖲𝗍𝖾𝗉 5: 𝖨𝗍𝗌 𝗍𝗂𝗆𝖾 𝗍𝗈 𝖱𝗎𝗇 𝗒𝗈𝗎𝗋 𝖣𝗈𝖼𝗄𝖾𝗋 𝗂𝗆𝖺𝗀𝖾!!
 
-To wrap up this process, we need to run the command: 
+- To wrap up this process, we need to run the command: 
 
 ![image](https://github.com/user-attachments/assets/00ce4103-dc07-4a79-a650-bdecb8530aa6)
 
-In my case, when running my Python script, this command resulted in an error and did not execute the script as I expected, leading me into a long and intensive troubleshooting process! 👀
+#### In my case, when running my Python script, this command resulted in an error and did not execute the script as I expected, leading me into a long and intensive troubleshooting process! 👀
 
 ##  𝖴𝗇𝖽𝖾𝗋𝗌𝗍𝖺𝗇𝖽𝗂𝗇𝗀 𝗁𝗈𝗐 𝗍𝗈 𝖿𝗂𝗑 𝗍𝗁𝖾 𝗉𝗋𝗈𝖻𝗅𝖾𝗆 𝖺𝗇𝖽 𝗐𝗁𝖺𝗍 𝗐𝖾𝗇𝗍 𝗐𝗋𝗈𝗇𝗀!
 
