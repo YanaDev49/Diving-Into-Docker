@@ -8,7 +8,7 @@
 
  So Lets cover some networking concepts in Docker and understand how they work!!
 
- ## Bridge Networking
+ ## 1. Bridge Networking
 
  ![image](https://github.com/user-attachments/assets/ddd898b0-90f5-464d-b4d1-dcd51fae115f)
 
@@ -16,4 +16,25 @@
  - Containers connected to the Bridge Network can communicate with eachother using their own IP addresses
  - its isolated from your host machines network which provides and extra layer of security.
 
- - 
+## 2. Host Networking 
+
+![image](https://github.com/user-attachments/assets/a1e206ce-c6ec-4c1a-8fa5-162f134a7293)
+
+- In host networking, a container uses the hosts machines network directly without any isolation
+- Its as if the container is plugged directly into your home network with no distinction between the container and the host
+- This mode is useful for applicationsthat need to closely interact with the host system.
+
+## 3. None Networking 
+
+![image](https://github.com/user-attachments/assets/d3fe0e58-2d6f-4dbe-ac8e-0580c6e45c1e)
+
+- This type of networking gives a container no network interface at all which makes it completely isolated
+- None networking is used so that a container has no network access whatsover
+- This is useful for certain security scenarios
+
+## Why is Docker Networking important in DevOps? 🤔♾️
+
+- Docker networking in DevOps is particularly important because it simplifies the implementation of microservices architecture
+- Microservices allow different parts of an application to run as independent services each in its own container.
+- Docker networking ensures that these services can communicate with eachother efficiently and securely
+- Dockers networking model is highly scalable, meaning that you can easily connect and scale services as your apllication grows 
