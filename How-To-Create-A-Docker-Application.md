@@ -11,7 +11,7 @@
 ## Creating My first Python Script!!
 ![PythonPoweredGIF](https://github.com/user-attachments/assets/c44680f3-767e-470f-98da-8d7a720fd156)
 
-- Making my first Python script was both interesting and challenging, as it was one of my first encounters with the programming language. I needed to ensure I understood the basics, so I did some research on Python fundamentals and everything necessary to create a short but interactive script!
+Making my first Python script was both interesting and challenging, as it was one of my first encounters with the programming language. I needed to ensure I understood the basics, so I did some research on Python fundamentals and everything necessary to create a short but interactive script!
 
 ![image](https://github.com/user-attachments/assets/d10ad6d5-324e-4bd6-8ac2-60480d71d09c)
 
