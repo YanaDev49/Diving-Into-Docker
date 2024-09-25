@@ -15,7 +15,7 @@ Making my first Python script was both interesting and challenging, as it was on
 
 ![image](https://github.com/user-attachments/assets/d10ad6d5-324e-4bd6-8ac2-60480d71d09c)
 
-Previously, I was learning about bash scripting, and while grasping the basics of Python, I noticed some concepts shared between the two that caught my attention. I think its so important to to back and reflect on the topics that you've previously learned and make comparisons with what you are learning currently, which is why i noticed these key differences. Both Python and bash scripting use variables to store different types of data, and both use the '=' character to assign values to variables.
+Previously, I was learning about bash scripting, and while grasping the basics of Python, I noticed some concepts shared between the two that caught my attention. I believe it is essential to revisit and reflect on the topics you have previously learned while making comparisons with what you are currently learning. This approach helped me notice these key differences. Both Python and bash scripting use variables to store different types of data, and both use the '=' character to assign values to variables.
 
 The main difference is that in Python, you need to include a space between the '=' character and the value being assigned, whereas bash scripting does not require this adjustment!
 
