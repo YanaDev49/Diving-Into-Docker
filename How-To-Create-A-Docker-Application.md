@@ -57,7 +57,7 @@ The only visual difference is with the type of brackets used as well as the diff
 
 ![image](https://github.com/user-attachments/assets/453cd626-562e-4ca8-8185-5cdd36177711)
 
-The 'input' function in python allows us to recieve a users input which is the interactive part of the script itself. This means that when we run the script, the text ![image](https://github.com/user-attachments/assets/65010804-9619-4d67-8ccf-887c3b1cd01d) will show up, indicating that the user should type in a message! 
+The 'input' function in python allows us to recieve a users input which is the interactive part of the script itself. This means that when we run the script, the text '𝗣𝗹𝗲𝗮𝘀𝗲 𝘀𝘂𝗯𝗺𝗶𝘁 𝘆𝗼𝘂𝗿 𝘁𝗲𝘅𝘁:' will show up, indicating that the user should type in a message! 
 
 ![image](https://github.com/user-attachments/assets/3f6d0015-24af-4d28-9930-08b89b92ae95) 
 
