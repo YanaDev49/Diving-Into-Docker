@@ -35,13 +35,13 @@ As you can see there is no space between the '=' character along with the variab
 
 You can see that a space between the variable and its assignment needs to be put in place! 
 
-### Another quick similarity between both bash scripting and the python programming language is that they both use control structures like 'if', 'for', and 'while' loops.
+Another quick similarity between both bash scripting and the python programming language is that they both use control structures like 'if', 'for', and 'while' loops.
 
-𝗧𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗯𝗮𝘀𝗵 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
+#### 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗯𝗮𝘀𝗵 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
 
 ![image](https://github.com/user-attachments/assets/3e1ef8bb-c68b-49ff-a49e-56013d45aba3)
 
-𝗮𝗻𝗱 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗽𝘆𝘁𝗵𝗼𝗻 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
+#### 𝗮𝗻𝗱 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗽𝘆𝘁𝗵𝗼𝗻 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
 
 ![image](https://github.com/user-attachments/assets/0a000c38-66cb-474f-ac70-ba17c9e8c5bd)
 
