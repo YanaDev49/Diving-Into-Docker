@@ -11,7 +11,7 @@
 ## Creating My first Python Script!!
 ![PythonPoweredGIF](https://github.com/user-attachments/assets/c44680f3-767e-470f-98da-8d7a720fd156)
 
-Making my first Python script was both interesting and challenging, as it was one of my first encounters with the programming language. I needed to ensure I understood the basics, so I did some research on Python fundamentals and everything necessary to create a short but interactive script!
+- Making my first Python script was both interesting and challenging, as it was one of my first encounters with the programming language. I needed to ensure I understood the basics, so I did some research on Python fundamentals and everything necessary to create a short but interactive script!
 
 ![image](https://github.com/user-attachments/assets/d10ad6d5-324e-4bd6-8ac2-60480d71d09c)
 
@@ -27,15 +27,15 @@ Previously, I was learning about bash scripting, and while grasping the basics o
 
 ![image](https://github.com/user-attachments/assets/badbba70-cc31-4f5b-9da1-974048f4522d)
 
-As you can see there is no space between the '=' character along with the variable and its assignment!
+- As you can see there is no space between the '=' character along with the variable and its assignment!
 
 𝘏𝑜𝘸𝑒𝘷𝑒𝘳 𝘸𝑖𝘵ℎ 𝑝𝘺𝑡𝘩𝑜𝘯...
 
 ![image](https://github.com/user-attachments/assets/68152c6f-a052-4e17-9a82-e40fba11db7a) 
 
-You can see that a space between the variable and its assignment needs to be put in place! 
+- You can see that a space between the variable and its assignment needs to be put in place! 
 
-Another quick similarity between both bash scripting and the python programming language is that they both use control structures like 'if', 'for', and 'while' loops.
+###### Another quick similarity between both bash scripting and the python programming language is that they both use control structures like 'if', 'for', and 'while' loops.
 
 #### 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗯𝗮𝘀𝗵 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
 
@@ -45,7 +45,7 @@ Another quick similarity between both bash scripting and the python programming 
 
 ![image](https://github.com/user-attachments/assets/0a000c38-66cb-474f-ac70-ba17c9e8c5bd)
 
-The only visual difference is with the type of brackets used as well as the differing language types, E.g using 'echo' instead of using 'print' 
+- The only visual difference is with the type of brackets used as well as the differing language types, E.g using 'echo' instead of using 'print' 
 
 ## Creating a python script that counts the number of characters in each string!! 🚀  
 
@@ -57,11 +57,11 @@ The only visual difference is with the type of brackets used as well as the diff
 
 ![image](https://github.com/user-attachments/assets/453cd626-562e-4ca8-8185-5cdd36177711)
 
-The 'input' function in python allows us to recieve a users input which is the interactive part of the script itself. This means that when we run the script, the text '𝗣𝗹𝗲𝗮𝘀𝗲 𝘀𝘂𝗯𝗺𝗶𝘁 𝘆𝗼𝘂𝗿 𝘁𝗲𝘅𝘁:' will show up, indicating that the user should type in a message! 
+- The 'input' function in python allows us to recieve a users input which is the interactive part of the script itself. This means that when we run the script, the text '𝗣𝗹𝗲𝗮𝘀𝗲 𝘀𝘂𝗯𝗺𝗶𝘁 𝘆𝗼𝘂𝗿 𝘁𝗲𝘅𝘁:' will show up, indicating that the user should type in a message! 
 
 ![image](https://github.com/user-attachments/assets/3f6d0015-24af-4d28-9930-08b89b92ae95) 
 
-In this part of the code, the 'len()' function counts the characters in a string, including spaces and punctuation. By passing the 'text' variable into the 'len()' function, the code counts the characters within the text provided by the user.
+- In this part of the code, the 'len()' function counts the characters in a string, including spaces and punctuation. By passing the 'text' variable into the 'len()' function, the code counts the characters within the text provided by the user.
 
 ![image](https://github.com/user-attachments/assets/b8c4236b-682d-4c34-9879-810ab7f15bca)
 
@@ -178,11 +178,11 @@ I began researching my issue and discovered that, since my Python script require
 
 ![image](https://github.com/user-attachments/assets/3ca3fcba-b227-44de-a81f-2e04fc892090)
 
-I then came accross the 'docker run python-test' command with the '-it' option:
+#### I then came accross the 'docker run python-test' command with the '-it' option:
 
 ![image](https://github.com/user-attachments/assets/c06327cb-8ba1-4d38-a612-3ba37414ab64)
 
-WHICH SUCCESSESFULLY LAUNCHED MY SCRIPT!!
+### WHICH SUCCESSESFULLY LAUNCHED MY SCRIPT!!
 
 ![Screenshot 2024-09-24 020422](https://github.com/user-attachments/assets/aaeee716-1113-4dc0-a23b-cbb145183ba0)
 ![Screenshot 2024-09-24 020750](https://github.com/user-attachments/assets/54fd3dfe-3759-4156-bc09-cd7b590626ca)
@@ -197,7 +197,7 @@ WHICH SUCCESSESFULLY LAUNCHED MY SCRIPT!!
 
 ![ThiefThiefTheDarkProjectGIF](https://github.com/user-attachments/assets/cc82d55d-91b4-47cd-96cf-2bad54850add)
 
-𝗔𝗻𝗱 𝘁𝗵𝗲𝗿𝗲 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗶𝘁 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲! 
+### 𝗔𝗻𝗱 𝘁𝗵𝗲𝗿𝗲 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗶𝘁 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲! 
 
 𝗧𝗵𝗮𝘁 𝗶𝘀 𝗵𝗼𝘄 𝗜 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗺𝘆 𝗳𝗶𝗿𝘀𝘁 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝗱𝗼𝗰𝗸𝗲𝗿, 𝗮𝗻𝗱 𝗶 𝗺𝘂𝘀𝘁 𝘀𝗮𝘆 𝘁𝗵𝗮𝘁 𝗶𝘁 𝘄𝗮𝘀 𝗱𝗲𝗳𝗶𝗻𝗶𝘁𝗲𝗹𝘆 𝗮𝗻 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝗳𝘂𝗹 𝗮𝗻𝗱 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝘁𝗵𝗮𝘁 𝗵𝗲𝗹𝗽𝗲𝗱 𝗺𝗲 𝗹𝗲𝗮𝗿𝗻 𝘀𝗼 𝗺𝘂𝗰𝗵 𝗮𝗯𝗼𝘂𝘁 𝗗𝗼𝗰𝗸𝗲𝗿 𝗮𝗻𝗱 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘀𝗮𝘁𝗶𝗼𝗻!
 
