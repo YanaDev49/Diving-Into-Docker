@@ -23,7 +23,7 @@ Previously, I was learning about bash scripting, and while grasping the basics o
 
 ## 𝗟𝗲𝘁 𝗺𝗲 𝘀𝗵𝗼𝘄 𝘆𝗼𝘂 𝗮 𝘃𝗶𝘀𝘂𝗮𝗹 𝗲𝘅𝗮𝗺𝗽𝗹𝗲:
 
-𝑇𝘩𝑖𝘴 𝘪𝑠 𝑎𝘯 𝘦𝑥𝘢𝑚𝘱𝑙𝘦 𝘰𝑓 𝑣𝘢𝑟𝘪𝑎𝘣𝑙𝘦 𝘢𝑠𝘴𝑖𝘨𝑛𝘮𝑒𝘯𝑡 𝑖𝘯 𝘣𝑎𝘴ℎ 𝑠𝘤𝑟𝘪𝑝𝘵𝑖𝘯𝑔
+𝑇𝘩𝑖𝘴 𝘪𝑠 𝑎𝘯 𝘦𝑥𝘢𝑚𝘱𝑙𝘦 𝘰𝑓 𝑣𝘢𝑟𝘪𝑎𝘣𝑙𝘦 𝘢𝑠𝘴𝑖𝘨𝑛𝘮𝑒𝘯𝑡 𝑖𝘯 𝘣𝑎𝘴ℎ 𝑠𝘤𝑟𝘪𝑝𝘵𝑖𝘯𝑔:
 
 ![image](https://github.com/user-attachments/assets/badbba70-cc31-4f5b-9da1-974048f4522d)
 
@@ -31,11 +31,11 @@ As you can see there is no space between the '=' character along with the variab
 
 𝘏𝑜𝘸𝑒𝘷𝑒𝘳 𝘸𝑖𝘵ℎ 𝑝𝘺𝑡𝘩𝑜𝘯...
 
-![image](https://github.com/user-attachments/assets/68152c6f-a052-4e17-9a82-e40fba11db7a) blog.penjee.com
+![image](https://github.com/user-attachments/assets/68152c6f-a052-4e17-9a82-e40fba11db7a) 
 
 You can see that a space between the variable and its assignment needs to be put in place! 
 
-Another quick similarity between both bash scripting and the python programming language is that they both use control structures like 'if', 'for', and 'while' loops.
+### Another quick similarity between both bash scripting and the python programming language is that they both use control structures like 'if', 'for', and 'while' loops.
 
 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗯𝗮𝘀𝗵 𝘀𝗰𝗿𝗶𝗽𝘁 𝘂𝘀𝗶𝗻𝗴 the 'if' statement.
 
