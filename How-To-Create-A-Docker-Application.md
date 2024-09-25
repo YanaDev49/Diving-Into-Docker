@@ -157,7 +157,7 @@ To wrap up this process, we need to run the command:
 
 ![image](https://github.com/user-attachments/assets/00ce4103-dc07-4a79-a650-bdecb8530aa6)
 
-Now, in my case regarding my python script, this command resulted in an error and did not run the script as i expected, which too me down a long and intensive 𝗧𝗿𝗼𝘂𝗯𝗹𝗲𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴 process!! 👀
+Now, in my case regarding my python script, this command resulted in an error and did not run the script as i expected, which too me down a long and intensive Troubleshooting process!! 👀
 
 ##  𝖴𝗇𝖽𝖾𝗋𝗌𝗍𝖺𝗇𝖽𝗂𝗇𝗀 𝗁𝗈𝗐 𝗍𝗈 𝖿𝗂𝗑 𝗍𝗁𝖾 𝗉𝗋𝗈𝖻𝗅𝖾𝗆 𝖺𝗇𝖽 𝗐𝗁𝖺𝗍 𝗐𝖾𝗇𝗍 𝗐𝗋𝗈𝗇𝗀!
 
@@ -173,7 +173,7 @@ But i didnt give up there! I started to do some research on my issue and i found
 
 ![image](https://github.com/user-attachments/assets/3ca3fcba-b227-44de-a81f-2e04fc892090)
 
-I then came accross the command:
+I then came accross the 'docker run python-test' command with the '-it' option:
 
 ![image](https://github.com/user-attachments/assets/c06327cb-8ba1-4d38-a612-3ba37414ab64)
 
@@ -182,5 +182,13 @@ WHICH SUCCESSESFULLY LAUNCHED MY SCRIPT!!
 ![Screenshot 2024-09-24 020422](https://github.com/user-attachments/assets/aaeee716-1113-4dc0-a23b-cbb145183ba0)
 ![Screenshot 2024-09-24 020750](https://github.com/user-attachments/assets/54fd3dfe-3759-4156-bc09-cd7b590626ca)
 
+## 𝖫𝖾𝗍 𝗆𝖾 𝖾𝗑𝗉𝗅𝖺𝗂𝗇 𝗁𝗈𝗐 𝗍𝗁𝗂𝗌 𝗐𝗈𝗋𝗄𝖾𝖽!!
 
+The -it flag combines two options:
+
+-i: This keeps the standard input (stdin) open, so that my container can receive input.
+
+-t: This allocates a pseudo-TTY, which gives you a terminal-like interface in the container and also fascilitates user input in the script!
+
+![ThiefThiefTheDarkProjectGIF](https://github.com/user-attachments/assets/cc82d55d-91b4-47cd-96cf-2bad54850add)
 
