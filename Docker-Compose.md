@@ -25,11 +25,14 @@ One of the key components of Docker Compose is the '𝗗𝗼𝗰𝗸𝗲𝗿-�
 
 ![image](https://github.com/user-attachments/assets/47ff4b21-9b66-4565-acdc-f98913c010d0)
 
-### Docker compose makes development and testing easier 
+## Docker compose makes development and testing easier 
+
+![image](https://github.com/user-attachments/assets/b1c96f1f-c919-4ac8-813b-6fefce508e58)
 
 One of the biggest challenges in development is setting up a consistent enviroment for coding and testing Docker compose simplifies this by allowing you to quickly create the exact enviroment you need with all the necessary servives, whether its a web server, database or cache! instead of manually setting up each service, you define everything in a docker compose .𝘆𝗺𝗹 file and just run a single command to start the entire enviroment
 
 ## Docker compose ensures consistency 
+
 ![image](https://github.com/user-attachments/assets/b5874e67-5a7c-44d8-be09-ffac26ad511d)
 
 - Docker compose ensures that everyone in your team is working on the same enviroment
