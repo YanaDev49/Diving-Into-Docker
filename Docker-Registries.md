@@ -22,23 +22,29 @@
 - This is important when handling sensitive applications where you dont want to anyone to access these images
 
 ## Why are Docker Registries so important in the DevOps enviroment? 🤔
-![WhyIsThisImportantJamesGIF](https://github.com/user-attachments/assets/eef0c81f-3a48-4a23-8357-43847777c935)
+![image](https://github.com/user-attachments/assets/224bed46-3af9-480e-81ee-bbc690044ff2)
 
-- Docker Registries streamline the deployment process which means that once your docker images are strored within the registry, they can be easily accessed and deployed accross multiple enviroments
+- Docker Registries streamline the deployment process which means that once your docker images are strored within the registry, they can be easily be accessed and deployed accross multiple enviroments
+  
 - This makes it much faster and more relaible to put out new features and updates
-- Docker registries enhance collaboration within a team because when images are stored in a centralized registry, everyone on your team has access to the same resources which makes it easier to share and manage images, improving overall
-  teamwork and efficiency
+  
+- Docker registries enhance collaboration within a team because when images are stored in a centralized registry, everyone on your team has access to the same resources which makes it easier to share and manage images, improving overall teamwork and efficiency
+  
 -  A Docker Registry ensures that everyone is on the same page
+  
 -  Lastly Docker Registries ensure consistency accross different enviroments, so by storing your images in a registry, you can be sure that the exact same image is being used in development, testing and production
 
 ## How do Registries fit in the overall workflow? 🤔
-![ReactionThinkingGIF](https://github.com/user-attachments/assets/cd60f3eb-d26f-4ce3-8885-af05ff33bac0)
+![image](https://github.com/user-attachments/assets/0a7adb38-81bd-42e8-b2f9-f44c17c10e48)
 
-In A DevOps workflow, Docker Registries are used to build!
+### In A DevOps workflow, Docker Registries are used to build!
+
 - So when you build your docker image locally, creating a docker file and built the image, before pushing the image to a registru you test it to ensure everything is working as expected by creating a container out of it
+  
 - Once the image is ready and the apllication runs as expected, then you push the image to AWS ECR
+  
 - lastly you pull that image from the registry to deploy it to your production or staging enviroment
 
-- 
+
 
 
