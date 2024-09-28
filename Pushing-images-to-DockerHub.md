@@ -27,10 +27,22 @@ After that, You should get a page that looks like this ⤵️
 ### The Command to do this is: ⤵️
 ![image](https://github.com/user-attachments/assets/0e9cf99f-38ac-4c50-873a-6614c23b92bf)
 
-- Then navigate to your dockerhub repository and you should see the image you just pushed!!
+( In my case its Dockerfile.2 because i created another Dockerfile for my apllication )
 
-  
+Then, run the command: ⤵️
 
+![image](https://github.com/user-attachments/assets/62eac850-5bc3-4fe5-8060-c50ebab1cc0d)
+
+And this should push your images to Dockerhub ready to be pulled or shared!!
+
+![image](https://github.com/user-attachments/assets/b5be795d-b222-490a-bf90-0f086f72467e)
+
+  To pull the image down to another machine (or the same machine) all we need to do is run the command: ⤵️
+
+  ![image](https://github.com/user-attachments/assets/1c3dff3b-0311-4286-bc0d-751daa577bef)
+
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/369ff72e-1680-40b0-a283-14365e0b75ca)
 
 
 
