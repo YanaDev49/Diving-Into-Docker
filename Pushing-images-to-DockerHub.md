@@ -11,11 +11,13 @@ Before following up with this process, we need to create a repository where we c
 ### 📌 Click Create a Repository
 ![Screenshot 2024-09-28 145815](https://github.com/user-attachments/assets/62f49451-d813-4f5f-bf8c-1233a98fc555)
 
-You should get a page that looks like this ⤵️
+####  (You can fill in the details of what you want your Repo to be called along with a Description below)
+
+After that, You should get a page that looks like this ⤵️
 
 ![Screenshot 2024-09-28 150516](https://github.com/user-attachments/assets/4ef1bde0-e770-472c-b195-61d9391d5356)
 
-𝘕𝘰𝘸 𝘓𝘦𝘵𝘴 𝘎𝘰 𝘐𝘯𝘵𝘰 𝘛𝘩𝘦 𝘚𝘵𝘦𝘱𝘴! 🚀
+𝘕𝘰𝘸 𝘞𝘦 𝘈𝘳𝘦 𝘙𝘦𝘢𝘥𝘺 𝘛𝘰 𝘎𝘰 𝘐𝘯𝘵𝘰 𝘛𝘩𝘦 𝘔𝘢𝘪𝘯 𝘚𝘵𝘦𝘱𝘴 🚀
 
 ## Step 1. Build and Tag Your Image Correctly 🖼️
 
