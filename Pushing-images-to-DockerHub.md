@@ -3,7 +3,16 @@
 
 Before following up with this process, we need to create a repository where we can store our images in DockerHub⤵️
 
+### Navigate to dockerHub
+![Screenshot 2024-09-28 145544](https://github.com/user-attachments/assets/51b96686-b1cc-4aae-b168-1516a8c49db7)
 
+### Click Create a Repository
+![Screenshot 2024-09-28 145815](https://github.com/user-attachments/assets/62f49451-d813-4f5f-bf8c-1233a98fc555)
+
+- You should get a page that looks like this ⤵️
+  ![Screenshot 2024-09-28 150516](https://github.com/user-attachments/assets/4ef1bde0-e770-472c-b195-61d9391d5356)
+
+𝘕𝘰𝘸 𝘓𝘦𝘵𝘴 𝘎𝘰 𝘐𝘯𝘵𝘰 𝘛𝘩𝘦 𝘚𝘵𝘦𝘱𝘴! 🚀
 
 ## Step 1. Build and Tag Your Image Correctly 🖼️
 
