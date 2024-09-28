@@ -43,7 +43,14 @@
   
 - Once the image is ready and the apllication runs as expected, then you push the image to AWS ECR
   
-- lastly you pull that image from the registry to deploy it to your production or staging enviroment
+- lastly you pull that image from the registry to deploy it to your production or staging enviroment. This is where pipelines come in where you are pulling the images that youve built directly from this registry.
+
+- once youve pushed this image to the registry you are now pulling the image within your pipeline so that you can do this automatically 
+
+### This workflow ensures that the same image is deployed accross all enviroments which reduces the risk of inconsistencies and errors!!
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/6407fcee-c107-4498-a063-7d6af5da5dd1)
+
 
 
 
