@@ -53,6 +53,6 @@
 - To completely remove it, you can run the ' docker rm ' command followed by the container ID of your choice
 
 
-### By managing images and containers effectively, you ensure that your system stays efficient and free from unecessary clutter. These commands are apart of your day to day work flow for anyone working with docker.
+### By managing images and containers effectively, you ensure that your system stays organised and efficient. These commands are apart of your day to day work flow for anyone working with docker.
 
 ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/267de80e-7479-416a-857f-3e5c6668651e)
