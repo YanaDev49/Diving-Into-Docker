@@ -33,4 +33,26 @@
 - Instead of removing images 1 by 1, docker provides a command that cleans up all unused images, containers, networks and volumes in one go
 - This is useful for clearing resources that are no longer needed
 
-- 
+## Command 5:⤵️
+
+![image](https://github.com/user-attachments/assets/f4147d0d-f6ee-4eef-aaab-44c4fbd2b094)
+
+- To see which containers are correctly running on your system, you can run the ' docker ps ' command.
+
+## Command 6:⤵️
+
+![image](https://github.com/user-attachments/assets/3f0302a8-a70c-46aa-8704-2cd7ec4c02c7)
+
+- To stop a container from running run the ' docker stop ' command followed by the image ID of the container you want to stop
+- However once a container has been stopped, it still exists on your system in a stopped state
+
+## Command 7:⤵️
+
+![image](https://github.com/user-attachments/assets/61e4f44f-67ca-44ed-b4d6-39007bec1f72)
+
+- To completely remove it, you can run the ' docker rm ' command followed by the container ID of your choice
+
+
+### By managing images and containers effectively, you ensure that your system stays efficient and free from unecessary clutter. These commands are apart of your day to day work flow for anyone working with docker.
+
+![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/267de80e-7479-416a-857f-3e5c6668651e)
