@@ -1,9 +1,7 @@
 # 𝗔𝗹𝗹 𝗔𝗯𝗼𝘂𝘁 𝗗𝗼𝗰𝗸𝗲𝗿 𝗖𝗼𝗺𝗽𝗼𝘀𝗲 ♾️🚀
 ![image](https://github.com/user-attachments/assets/62cf988e-7ccf-47d2-924a-8f093a2513c1)
 
-- Docker compose is a tool that allows you to define and manage, multi-container docker applications
-
-- Docker compose offers a powerful and efficient way to manage multiple container docker appications. This means that you dont have to go through the rouble of stoping and starting containers one by one!
+- Docker compose offers a powerful and efficient way to manage multiple container docker appications. This means that you dont have to go through the trouble of stoping and starting containers one by one!
 
 - It lets you define all your services in a single file and manage them collectively
 
