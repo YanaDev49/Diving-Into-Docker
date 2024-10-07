@@ -1,7 +1,7 @@
 # Introduction to my docker repository 😄👋
 
 #### Hello Everyone 👋
-#### Welcome to my Docker Repository!🐋
+#### Welcome to my Docker Repository! 🐳
 #### Here I'll take you through everything ive learnt about Docker and containerisation, as well as some exciting projects!🚀🎉
 
 ### Stay Tuned! 👀🎉
